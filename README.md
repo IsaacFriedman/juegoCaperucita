@@ -1,4 +1,4 @@
-# juegoCaperucita
+# Juego Caperucita
 Trabajo Metodologías Ágiles
 
 Recomendable utilizar Google Colab
